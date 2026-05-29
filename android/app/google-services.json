@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "187110378547",
+    "project_id": "communityadvisory-76bf6",
+    "storage_bucket": "communityadvisory-76bf6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187110378547:android:b0de7a4eb73b9b50292746",
+        "android_client_info": {
+          "package_name": "com.communityadvisory"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7Lr0SGgD6oUfMujCFzEkNC0iaErx0kCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
